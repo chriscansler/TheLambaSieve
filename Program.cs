@@ -30,4 +30,4 @@ public class Sieve {
 
 // Question: Does this change make the program easier or harder to read?
 // Answer: Harder. No longer do I have a function being passed as a delegate named "IsEven"; 
-//         I have to infer what it does by looking at the code.
+// I have to infer what it does by looking at the code.
