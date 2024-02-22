@@ -26,7 +26,7 @@ public class Sieve {
 }
 
 // Question: Does this change make the program shorter or longer.
-// Answer: shorter; I eliminated 3 lines
+// Answer: Shorter; I eliminated 3 lines
 
 // Question: Does this change make the program easier or harder to read?
 // Answer: Harder. No longer do I have a function being passed as a delegate named "IsEven"; 
